@@ -1,0 +1,5 @@
+# Tech-news feeds, one URL per line. Lines starting with # are ignored.
+https://news.ycombinator.com/rss
+https://www.theverge.com/rss/index.xml
+https://feeds.arstechnica.com/arstechnica/index
+https://www.technologyreview.com/feed/
